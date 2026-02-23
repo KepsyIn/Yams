@@ -28,27 +28,26 @@ The project is divided into three main layers:
 
 ## Getting Started
 
-Prerequisites
+### Prerequisites
+
 A C++ compiler supporting C++17 (e.g., g++).
 
-Make build tool.
-
-Installation & Build
+### Installation & Build
 Open your terminal in the project root directory.
-
-### Compile the project using the Makefile:
+Compile the project using the Makefile:
 
 ```Bash
 make
 ```
+
 ### Run the game:
 
 ```Bash
 ./bin/yams
 ```
-Cleaning Build Files
-To remove object files and the binary:
 
+### Cleaning Build Files
+To remove object files and the binary:
 ```Bash
 make clean
 ```
