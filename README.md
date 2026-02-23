@@ -53,7 +53,7 @@ To remove object files and the binary:
 make clean
 ```
 
-## 🎮 How to Play
+## How to Play
 
 1. Roll: At the start of your turn, the dice are rolled automatically.
 
